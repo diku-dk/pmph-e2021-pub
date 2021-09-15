@@ -137,8 +137,8 @@ deadline**.
 
 ### Weekly 2 (due September 23th)
 
-* [Assignment text]()
-* [Code handout]()
+* [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
+* [Code handout](weeklies/weekly-2/wa2-code.tar.gz)
 
 ### Weekly 3 (due October 7th)
 
