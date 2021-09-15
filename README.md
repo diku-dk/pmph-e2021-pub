@@ -135,7 +135,7 @@ deadline**.
 * [Assignment text](weeklies/weekly-1/assignment1.asciidoc)
 * [Code handin](weeklies/weekly-1/w1-code-handin.tar.gz)
 
-### Weekly 2 (due September 23th)
+### Weekly 2 (due September 29th)
 
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
 * [Code handout](weeklies/weekly-2/wa2-code.tar.gz)
