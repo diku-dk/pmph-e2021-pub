@@ -100,8 +100,8 @@ the lab sessions.
 | 23/09 | 10:00-12:00 | [Optimizing ILP, VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 23/09 | 13:00-17:00 | Lab: [GPU hardware: three important design choices.](slides/Lab2-GPU-HWD.pdf) | helping with the first two weekly assignments.
 | 23/09 |  | No new weekly assignment this week; the third will be published next week | |
-| 28/09 | 10:00-12:00 | [Finishing VLIW Architectures (SFT-HWD)](slides/L4-VLIW.pdf), [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 3 of "Parallel Computer Organization and Design" Book, Chapter 5 of lecture Notes |
-| 30/09 | 10:00-12:00 | [Dependency Analysis of Imperative Loops, Case Study: Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
+| 28/09 | 10:00-12:00 | [Dependency Analysis of Imperative Loops](slides/L5-LoopParI.pdf) | Chapter 5 of lecture Notes |
+| 30/09 | 10:00-12:00 | [Optimizing Locality, Case Study: Nearest Neighbor, Matrix Multiplication and Transposition](slides/L5-LoopParI.pdf) | Chapters 5 and 6 of lecture Notes |
 | 30/09 | 13:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the first two weekly assignments.
 | 30/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 | 05/10 | 10:00-12:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
