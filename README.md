@@ -142,8 +142,8 @@ deadline**.
 
 ### Weekly 3 (due October 7th)
 
-* [Assignment text]()
-* [Code handout]()
+* [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
+* [Code handout](weeklies/weekly-3/wa3-code.tar.gz)
 
 ### Weekly 4 (due October 19th)
 
