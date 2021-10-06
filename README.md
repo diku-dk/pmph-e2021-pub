@@ -105,7 +105,7 @@ the lab sessions.
 | 30/09 | 13:00-17:00 | Lab: Recognizing Scan and Reduce Patterns in Imperative Code | helping with the weekly assignments.
 | 30/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 | 05/10 | 10:00-12:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
-| 07/10 | 10:00-12:00 | [Bus-Based Coherency Protocols, Scalable Coherence Protocols (HWD)](slides/L6-MemIntro.pdf) (slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
+| 07/10 | 10:00-12:00 | HWD: [Bus-Based Coherency Protocols](slides/L6-MemIntro.pdf) and [Scalable Coherence Protocols](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 07/10 | 13:00-17:00 | Lab: **Presenting Possible Group Project**, [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
 | 12/10 | 10:00-12:00 | [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 14/10 | 10:00-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
