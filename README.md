@@ -106,14 +106,14 @@ the lab sessions.
 | 30/09 | some time   | [**Assignment 3 handout**](weeklies/weekly-3/) | |
 | 05/10 | 10:00-12:00 | [Memory Hierarchy, Bus-Based Coherency Protocols (HWD)](slides/L6-MemIntro.pdf) | Chapter 4 and 5 of "Parallel Computer Organization and Design" Book |
 | 07/10 | 10:00-12:00 | HWD: [Bus-Based Coherency Protocols](slides/L6-MemIntro.pdf) and [Scalable Coherence Protocols](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
-| 07/10 | 13:00-17:00 | Lab: **Presenting Possible Group Project**, [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
+| 07/10 | 13:00-17:00 | Lab: [**Presenting Possible Group Projects**](group-projects/), [Assignment 4 handout](weeklies/weekly-4/) | helping with weekly assignments, discussing group projects.
 | 12/10 | 10:00-12:00 | [Scalable Coherence Protocols, Scalable Interconect (HWD)](slides/L7-Interconnect.pdf) | Chapters 5 and 6 of "Parallel Computer Organization and Design" Book |
 | 14/10 | 10:00-12:00 | [Inspector-Executor Techniques for Locality Optimizations (SFT)](slides/L8-LocOfRef.pdf) | [Various scientific papers](material/Opt-Loc-Ref) |
 | 14/10 | 13:00-17:00 | Lab: Working on the 4th Weekly Assignment | helping project and anything else.
 | 19/10 | 10:00-12:00 | Autumn break (no lecture) | |
 | 21/10 | 10:00-12:00 | Autumn break (no lecture) | |
 | 21/10 | 13:00-17:00 | Autumn break (no lab) |
-| 26/10 | 10:00-12:00 | Zoom Lab Session upon request | Helping with group-project, weekly assignments |
+| 26/10 | 10:00-12:00 | Zoom Lab Session upon student request | Helping with group-project, weekly assignments |
 | 28/10 | 10:00-12:00 | [Modern CPU Design: Tomasulo Algorithm (HWD)](slides/L9-OoOproc.pdf)| Chapter 3 of "Parallel Computer Organization and Design" Book |
 | 28/10 | 13:00-17:00 | Lab: help with group project | 
 
@@ -153,13 +153,13 @@ deadline**.
 
 Several potential choices for group project may be found in folder `group-projects`, namely
 
-* [Single Pass Scan in Cuda (basic block of parallel programming)]()
-* [Bfast: a landscape change detection algorithm (Remote Sensing)]()
-* [Local Volatility Calibration  (Finance)]()
-* [Trinomial-Tree Option Pricing (Finance)]()
-* [HP Implementation for Fusing Tensor Contractions (Deep Learning)](): read the paper, implement the technique (some initial code is provided), and try to replicate the results of the paper. 
+* **You are free to propose your own project, for example from the machine learning field, but please discuss it first with Cosmin, to make sure it is a relevant project, i.e., on which you can apply some of the techniques/reasoning that we have studied in PMPH.**
+* [Single Pass Scan in Cuda (basic block of parallel programming)](group-projects/single-pass-scan)
+* [Bfast: a landscape change detection algorithm (Remote Sensing)](group-projects/bfast)
+* [Local Volatility Calibration  (Finance)](group-projects/loc-vol-calib)
+* [Fast Sorting Algorithm(s) for GPUs](group-projects/sorting-on-gpu)
+* [HP Implementation for Fusing Tensor Contractions (Deep Learning)](group-projects/tensor-contraction): read the paper, implement the technique (some initial code is provided), and try to replicate the results of the paper. 
 
-You are also free to propose your own project, for example from the machine learning field.
 
 ## GPU + MultiCore Machines
 
