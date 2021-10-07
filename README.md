@@ -140,7 +140,7 @@ deadline**.
 * [Assignment text](weeklies/weekly-2/assignment2.asciidoc)
 * [Code handout](weeklies/weekly-2/wa2-code.tar.gz)
 
-### Weekly 3 (due October 7th)
+### Weekly 3 (due October 11th)
 
 * [Assignment text](weeklies/weekly-3/assignment3.asciidoc)
 * [Code handout](weeklies/weekly-3/wa3-code.tar.gz)
